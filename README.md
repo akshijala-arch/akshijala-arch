@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Akshija L A 👋
 
-<!--
-**akshijala-arch/akshijala-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Electronics and Communication Engineering Student  
+💻 Interested in Software Development  
 
-Here are some ideas to get you started:
+## Skills
+- C
+- C++
+- HTML
+- CSS
+- JavaScript
+- Verilog HDL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+• To-Do List Web Application  
+• Calculator Web Application  
+
+## GitHub Projects
+https://github.com/akshijala-arch/todo-list-project  
+https://github.com/akshijala-arch/calculator-web-app
